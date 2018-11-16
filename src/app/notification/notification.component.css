@@ -1,0 +1,7 @@
+.example-card {
+    position: relative;
+    left: 10%;
+    width: 200px;
+    border-color: black;
+    border-width: 5px;
+}
