@@ -2,11 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
 
-# Objectif du projet
+### Objectif du projet
 
 Ce projet consiste à concevoir le front d'une application pour un food-truck avec Angular. Cette application permettra de commander en ligne pour aller chercher sa commande à une heure précise et donc éviter l'attente. Il est réalisé dans le cadre d'une POE Java-Angular à l'EPSI de Montpellier.
 
-# Contributeurs
+### Contributeurs
 
 Ce projet est réalisé par 4 personnes : Amal Issame, Lafont Laurent, Salvagniac Madeleine, Silencieux Fanny.
 
